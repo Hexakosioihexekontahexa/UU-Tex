@@ -81,7 +81,8 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 
 <details>
   <summary>Updates</summary>
-  # Compressed ignots & plates
+  
+  # Compressed ingots & plates
   ![image](https://user-images.githubusercontent.com/48926983/209546967-69995160-5857-4a2f-a007-47f9112ab0bf.png)
   
   # Circuit tips
@@ -89,6 +90,10 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 
   # Wafers & wafer-related stuff
   ![image](https://user-images.githubusercontent.com/48926983/209547448-325f9e7b-9fb9-43ac-9daa-2de0c40df968.png)
+
+  # GT++ issues 
+  (due to mod issue that recolours not only base item image, but it's overlay too)
+  ![image](https://user-images.githubusercontent.com/48926983/209548541-ab301470-7b6f-496a-bdde-e58119ae172e.png)
 
 </details>
 
