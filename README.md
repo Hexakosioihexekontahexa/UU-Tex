@@ -1,7 +1,10 @@
 # All credits go to Jimbno, Usernm and Alego22
 # UU-Tex-patch
 This pack only contains some retextured images and can only be used with original TP [UU-Tex](https://github.com/Jimbno/UU-Tex)
-Upon installation, make sure it is ordered above UU-Tex TP in the "Selected TPs list".
+
+Upon installation, make sure it is ordered **above** UU-Tex TP in the "Selected TPs list".
+
+To install: unzip the archive into 'resourcepacks' folder onto client
 
 # Images
 
