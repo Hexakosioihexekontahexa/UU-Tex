@@ -79,6 +79,19 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
   
 </details>
 
+<details>
+  <summary>Updates</summary>
+  # Compressed ignots & plates
+  ![image](https://user-images.githubusercontent.com/48926983/209546967-69995160-5857-4a2f-a007-47f9112ab0bf.png)
+  
+  # Circuit tips
+  ![image](https://user-images.githubusercontent.com/48926983/209547129-d1d544f8-8b90-4398-9a48-5d8c145fbb8e.png)
+
+  # Wafers & wafer-related stuff
+  ![image](https://user-images.githubusercontent.com/48926983/209547448-325f9e7b-9fb9-43ac-9daa-2de0c40df968.png)
+
+</details>
+
 
 ### Licensing
 
@@ -89,6 +102,8 @@ This pack works best with `use_machine_metal_tint` set to `false` in the gregtec
 #####  If you wish to donate 
 
  [![](https://img.shields.io/badge/ko---fi-orange)](https://Ko-fi.com/jimbno)
+ 
+ 
   
 
 
