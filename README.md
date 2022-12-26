@@ -1,3 +1,4 @@
+# All credits go to Jimbno, Usernm and Alego22
 # UU-Tex 
 This packs main focus is retexturing GT5U, specifically GTNH's version.
 
